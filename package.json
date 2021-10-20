@@ -1,0 +1,17 @@
+{
+  "name": "marcar_cnh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "jsdom": "^18.0.0",
+    "node-fetch": "^3.0.0",
+    "node-telegram-bot-api": "^0.54.0",
+    "puppeteer-core": "^5.5.0"
+  },
+  "scripts": {
+    "start": "node index"
+  }
+}

@@ -1,0 +1,5 @@
+session/
+node_modules/
+.env
+image.png
+log
