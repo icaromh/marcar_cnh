@@ -12,6 +12,6 @@
     "puppeteer-core": "^5.5.0"
   },
   "scripts": {
-    "start": "node index"
+    "start": "node src/index"
   }
 }
